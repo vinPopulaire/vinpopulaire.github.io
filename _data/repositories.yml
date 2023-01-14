@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vinpopulaire
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vinPopulaire/MEC_offloading
+  - vinPopulaire/Risk_aware_MEC_offloading
+  - vinPopulaire/SRPtool
+  - vinPopulaire/dotfiles

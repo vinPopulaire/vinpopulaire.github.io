@@ -28,6 +28,11 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            {%- if page.profile.work %}
+            <div class="work">
+              {{ page.profile.work }}
+            </div>
+            {%- endif %}
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
