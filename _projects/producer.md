@@ -4,7 +4,7 @@ title: Producer
 description: Recommendation system for the PRODUCER Horizon 2020 project
 img: assets/img/projects/producer.png
 importance: 1
-category: work
+category: Horizon 2020
 ---
 
 # PeRsOnalized DocUmentary Creation based on Automatically Annotated Content

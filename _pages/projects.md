@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of my projects.
+description: 
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [Horizon 2020, Elidek]
 horizontal: false
 ---
 

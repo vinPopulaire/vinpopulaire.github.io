@@ -4,7 +4,7 @@ title: Realism
 description: Research project, part of my PhD, concerning resource allocation in wireless systems
 img: assets/img/projects/realism.png
 importance: 2
-category: work
+category: Elidek
 ---
 
 # Rethinking rEsource ALlocation in Interdependent wirelesS systeMs
