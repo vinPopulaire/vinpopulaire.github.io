@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During my PhD, I had the role of teaching assistant in the following course
+description: 
 nav: true
 nav_order: 5
 ---
