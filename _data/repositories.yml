@@ -2,7 +2,8 @@ github_users:
   - vinpopulaire
 
 github_repos:
+  - vinPopulaire/dotfiles
   - vinPopulaire/MEC_offloading
   - vinPopulaire/Risk_aware_MEC_offloading
   - vinPopulaire/SRPtool
-  - vinPopulaire/dotfiles
+  - vinPopulaire/movie_rama
