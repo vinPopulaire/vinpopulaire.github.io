@@ -5,6 +5,5 @@ _site
 .jekyll-metadata
 .DS_store
 .tweet-cache
-Gemfile.lock
 vendor
 
